@@ -18,11 +18,10 @@ function yourAnimal() {
 
 
 
+function add2() {
 var add2 = 'n + 2'
-var n= a
-function add(n, add2) {
-const two = 2;
-  return n + two
+const n = 2;
+  return n + 2
 
   // Feel free to move things around!
  
